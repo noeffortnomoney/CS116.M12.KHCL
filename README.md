@@ -11,10 +11,14 @@
 ### Giảng viên
 * PGS.TS Lê Đình Duy - duyld@uit.edu.vn
 
-### Thành viên nhóm BHĐ
+### Thành viên nhóm 
 
 | STT | Họ tên | MSSV | Email | Github |
 | :---: | --- | --- | --- | --- |
 | 1 | Nguyễn Quan Huy | 19521622 | 19521622@gm.uit.edu.vn |  |
 | 2 | Trương Quốc Bình | 19521270 | 19521270@gm.uit.edu.vn | [noeffortnomoney](https://github.com/noeffortnomoney) |
 | 3 | Nguyễn Hữu Hưng | 19521571 | 19521571@gm.uit.edu.vn |  |
+
+### Đồ án
+
+* Tìm hiểu thuật toán Random Forest Classifier
